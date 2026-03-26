@@ -36,7 +36,7 @@ Add dependency in your pubspec.yaml
 yaml
 dependencies:
   flutter_circle_timer:
-    path: https://github.com/your_repo/flutter_circle_timer
+    path: https://github.com/Excelsior-Technologies-Community/flutter_circle_timer/tree/stage
 ```
 Then run:
 ```

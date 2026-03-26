@@ -7,7 +7,7 @@ The library provides gradient progress support, reverse animation mode, tick sca
 Developers can create engaging time-based UI experiences for Android, iOS, Web and Desktop applications without writing complex animation logic, custom painters or manual timer handling.
 ```
 
-----------
+-------------------
 
 ## 🌟 Features
 ```
@@ -27,7 +27,7 @@ Developers can create engaging time-based UI experiences for Android, iOS, Web a
 - 🌍 Supports Android, iOS, Web & Desktop
 ```
 
-----------
+--------------------
 
 ## 📦 Installation
 
@@ -43,12 +43,13 @@ Then run:
 flutter pub get
 ```
 
-----------
+--------------------
 
 ## 🎥 Preview
 
+https://github.com/user-attachments/assets/08a0b983-2a78-49d0-870d-42725c7986d8
 
---------------
+------------------
 
 ## 🗂 File Structure
 ```
